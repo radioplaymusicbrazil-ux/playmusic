@@ -1,0 +1,79 @@
+{
+  "stream_url": "https://stm51.srvstm.com:11088/stream",
+  "app_name": "Play Music Brazil",
+  "logo_url": "https://i.ibb.co/Xrv2ZmZ9/Sem-T-tulo-1-removebg-preview.png",
+  "background_url": "https://i.ibb.co/kVGkk5Cp/fundof.jpg",
+  "bg_tint_color": "#000e38",
+  "bg_tint_opacity": 0.82,
+  "live_badge_text": ".",
+  "live_badge_color": "#00000000",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+
+"enable_live_badge": false,
+
+"enable_tv": true,
+  "tv_url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8",
+  "tv_label": "TV Ao Vivo",
+
+ "enable_fake_listeners": false,
+  "fake_listeners_min": 20,
+  "fake_listeners_max": 252075,
+  "fake_listeners_label": "%d ouvintes hoje",
+
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/FFgCM5MS/321f7422-ccc4-46fb-98f6-f3127721564b.jpg",
+      "click_url": " https://wa.me/5584999005872 " 
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/TY0SDMQ5/25582566-1ec3-4de9-addf-7daefdcf0b92.jpg",
+      "click_url": " https://wa.me/5584986589119 "
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/5ywhGXw0/fd81a9ec-6522-4b11-88bf-c0e9add72fc2.jpg",
+      "click_url": " https://wa.me/5584999464244 "
+    }
+],
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://api.whatsapp.com/send?phone=5511978472498
+"
+    },
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/play.musicbrazil?xtok=MXJ4aDFlbHEyZ3NuMQ=="
+    },
+    {
+      "icon": "youtube",
+      "url": "https://youtube.com/@playmusicbrazilradio3342?si=WwQ2U0q_uAcze7qU"
+    },
+    {
+      "icon": "website",
+      "url": "https://www.radioplaymusic.com.br"
+    }
+  ]
+}
