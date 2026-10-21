@@ -33,28 +33,28 @@
 
   "banners": [
     {
-      "title": "PATROCINADOR 1",
+      "title": "PATROCINADOR 1 REI DO TRICOT ",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/FFgCM5MS/321f7422-ccc4-46fb-98f6-f3127721564b.jpg",
-      "click_url": " https://wa.me/5584999005872 " 
+      "click_url": " https://wa.me/5511933208626 " 
     },
     {
-      "title": "PATROCINADOR 2",
+      "title": "PATROCINADOR 2 SIG ARARAS ",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/TY0SDMQ5/25582566-1ec3-4de9-addf-7daefdcf0b92.jpg",
-      "click_url": " https://wa.me/5584986589119 "
+      "click_url": " https://www.instagram.com/sigararas?exln=b3RrNG5rYmpmY2Z3 "
     },
     {
-      "title": "PATROCINADOR 3",
+      "title": "PATROCINADOR 3 CDG FITNESS",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/5ywhGXw0/fd81a9ec-6522-4b11-88bf-c0e9add72fc2.jpg",
-      "click_url": " https://wa.me/5584999464244 "
+      "click_url": " https://www.instagram.com/c.d.gfitness?cplk=MWdmM2xkOTBrdjNiNw%3D%3D "
     }
 ],
   "social_icons": [
