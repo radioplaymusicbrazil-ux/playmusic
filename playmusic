@@ -24,7 +24,7 @@
 
 "enable_tv": true,
   "tv_url": "https://www.youtube.com/watch?v=3HgxUTcib1o&t=2s",
-  "tv_label": "TV Ao Vivo Play MusicBrazil ",
+  "tv_label": "TV Ao Vivo Play Music Brazil ",
 
  "enable_fake_listeners": false,
   "fake_listeners_min": 20,
