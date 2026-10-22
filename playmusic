@@ -18,13 +18,13 @@
   "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 7000,
-  "sponsor_label": "Anunciantes",
+  "sponsor_label": "Colaboradores",
 
 "enable_live_badge": false,
 
 "enable_tv": true,
-  "tv_url": "https://www.youtube.com/watch?v=3HgxUTcib1o&t=2s",
-  "tv_label": "TV Ao Vivo Play Music Brazil ",
+  "tv_url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8",
+  "tv_label": "TV Ao Vivo",
 
  "enable_fake_listeners": false,
   "fake_listeners_min": 20,
@@ -33,41 +33,30 @@
 
   "banners": [
     {
-      "title": "PATROCINADOR 1 REI DO TRICOT ",
+      "title": "PATROCINADOR 1",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/FFgCM5MS/321f7422-ccc4-46fb-98f6-f3127721564b.jpg",
-      "click_url": " https://www.instagram.com/reidotricot?dlrf=MXFwM21ya2hva3RvbQ%3D% " 
-       },
+      "click_url": " https://wa.me/5584999005872 " 
+    },
     {
-    
-    
-    
-      "title": "PATROCINADOR 2 SIG ARARAS ",
+      "title": "PATROCINADOR 2",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/TY0SDMQ5/25582566-1ec3-4de9-addf-7daefdcf0b92.jpg",
-      "click_url": " https://www.instagram.com/sigararas?exln=b3RrNG5rYmpmY2Z3  "
+      "click_url": " https://wa.me/5584986589119 "
     },
     {
-      "title": "PATROCINADOR 3 CDG FITNESS",
+      "title": "PATROCINADOR 3",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/5ywhGXw0/fd81a9ec-6522-4b11-88bf-c0e9add72fc2.jpg",
-      "click_url": " https://www.instagram.com/c.d.gfitness?cplk=MWdmM2xkOTBrdjNiNw%3D%3D "
-    },
-    {
-      "title": "PATROCINADOR 4 BOLIN",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.postimg.cc/pr3Znqj1/Whats-App-bolin-Image-2026-10-21-at-23-16-52.jpg",
-      "click_url": " https://www.instagram.com/bolinoficiall/ "
-    } 
- 
+      "click_url": " https://wa.me/5584999464244 "
+    }
+],
   "social_icons": [
     {
       "icon": "whatsapp",
