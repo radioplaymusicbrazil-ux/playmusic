@@ -26,7 +26,7 @@
   "tv_url": "https://www.youtube.com/watch?v=3HgxUTcib1o&t=2s",
   "tv_label": "TV Ao Vivo",
 
- "enable_fake_listeners": false,
+ "enable_fake_listeners": true,
   "fake_listeners_min": 20,
   "fake_listeners_max": 252075,
   "fake_listeners_label": "%d ouvintes hoje",
